@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning fullstack web development
 - 💞️ I’m looking to collaborate on software development
-- 📫 How to reach me ...
+- 📫 How to reach me ??????/..............will update with links
 
 <!---
 Shivanip-tech/Shivanip-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
